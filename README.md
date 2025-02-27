@@ -1,7 +1,10 @@
 # Alarm Clock ⏰
+---
 
-## Overview
+## 🎯 Overview 
 This project implements an **FPGA-based Alarm Clock Controller** using **Verilog and a finite state machine (FSM)** approach. The alarm clock allows users to **set time, set an alarm, and activate/deactivate the alarm**. The system features a **7-segment display**, LED indicators, and a buzzer for alarm notifications.
+
+---
 
 ## Features
 ✅ **Finite State Machine (FSM)** for clock and alarm control  
